@@ -3,9 +3,7 @@ export const kuberApiUrl = "https://kuber-preprod-api-kuber-marketplace-e5fd83.u
 export const explorerUrl = "https://preprod.cexplorer.io"
 export const blockfrost = {
     apiUrl: "https://cardano-preprod.blockfrost.io/api/v0",
-    apiKey: "preprodDQpR7tuIHm6skitdvHFbaJPQIbq8Io2r
-    
-    ",  // replace the api key
+    apiKey: "preprodDQpR7tuIHm6skitdvHFbaJPQIbq8Io2r",  // replace the api key
 }
 
 
